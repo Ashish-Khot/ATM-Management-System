@@ -1,0 +1,6 @@
+Name: Ruturaj Patil
+Mobile Number: 9085456589
+Address: Panhala
+PIN: 4567
+Balance: 1000.0
+ATM Card Number: 34132935

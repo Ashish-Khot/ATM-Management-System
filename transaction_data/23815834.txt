@@ -1,0 +1,4 @@
+Deposit: 795.33 Indian (INR) on 2024/05/31 22:41:08
+Withdrawal: 2000 Indian (INR) on 2024/05/31 22:41:32
+Withdrawal: 1666.67 American (USD) on 2024/05/31 22:41:40
+Deposit: 13333.33 Indian (INR) on 2024/05/31 22:41:51

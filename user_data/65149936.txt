@@ -1,0 +1,6 @@
+Name: Ashish
+Mobile Number: 9874568596
+Address: kolhapur
+PIN: 1412
+Balance: 4000
+ATM Card Number: 65149936

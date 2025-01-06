@@ -1,0 +1,6 @@
+Name: Ashish Khot
+Mobile Number: 9322994021
+Address: Kushire
+PIN: 1513
+Balance: 15461.99
+ATM Card Number: 23815834

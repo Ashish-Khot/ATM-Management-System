@@ -1,0 +1,3 @@
+Withdrawal: 5000 Indian (INR) on 2024/05/31 22:45:42
+Withdrawal: 4545.45 German (EUR) on 2024/05/31 22:45:48
+Deposit: 11111.11 Indian (INR) on 2024/06/01 09:38:46

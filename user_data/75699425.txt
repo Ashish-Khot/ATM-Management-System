@@ -1,0 +1,6 @@
+Name: Pranav Davang
+Mobile Number: 7083602589
+Address: Punal
+PIN: 1234
+Balance: 3000.0
+ATM Card Number: 75699425

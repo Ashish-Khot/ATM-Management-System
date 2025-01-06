@@ -1,0 +1,6 @@
+Name: Karan Jadhav
+Mobile Number: 8090604512
+Address: Kolhapur
+PIN: 4321
+Balance: 46565.66
+ATM Card Number: 15128192
